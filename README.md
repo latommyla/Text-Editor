@@ -10,7 +10,12 @@ To build this text editor, you will start with an existing application and imple
 ## Preview & Repository
 
 <img src="./client/src/images/demo.png" alt="demo" title="demo">
-[GitHub Repo](https://github.com/latommyla/Text-Editor)
+
+- [GitHub Repo](https://github.com/latommyla/Text-Editor)
+
+## Deployed Appliation
+
+- [View live application!](https://texteditor-hw.herokuapp.com/)
 
 ## Installation
 
